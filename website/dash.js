@@ -7,7 +7,7 @@ function load_website(port,client) {
   app.get('/', function (req, res) {
     let bot_name = client.user.username;
     let bot_id = client.user.id;
-    let bot_iconurl = client.user.defaultAvatarURL;
+    let bot_iconurl = config.icon;
     let servers = client.guilds.cache.size;
     let users= client.users.cache.size;
     let bot_prefix = client.prefix;
