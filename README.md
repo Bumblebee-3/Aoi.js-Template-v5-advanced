@@ -5,6 +5,7 @@ Recomended host: [replit](https://replit.com).
 
 Language: Bash
 
+Required Packages: Aoi.js (`npm i aoi.js`) & Express (`npm i express`).
 Credits: Leref for the node v16 on replit.
 
 ## Setup:
