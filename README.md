@@ -13,6 +13,7 @@ Credits: Leref for the node v16 on replit.
 - Go to `config.json`. 
 - Under `bot_prefix` add your bot prefix.
 - Under `bot_description` add your bot description. (Basically info which will show on the website.)
+- Under `icon` add your bots avatar link (.jpg or .png format!)
 - In your `.env` under the name "TOKEN" add your bot token.
 - Run the code.
 ## Editing The Code:
