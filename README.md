@@ -88,4 +88,5 @@ npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_mod
 - [X] Add A Basic Website Dashboard.
 ## More Features Comming soon!
 ## Made By: `Bumblebee#1447` on [discord.](https://discord.com/users/818377414367379487)
-# Aoi.js-Advanced-Template-V5
+# Please don't copy this code without giving credits. It has taken me lots of time and effort to make it and a star would mean a lot to me!
+
