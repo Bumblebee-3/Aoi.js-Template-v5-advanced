@@ -1,4 +1,4 @@
-# An Advanced AOI.JS v5 Command Handler
+# An Advanced AOI.JS v5 Command Handler With Dashboard!
 ## DO NOT use the code before reading this FULLY!!
 
 Recomended host: [replit](https://replit.com).
@@ -9,15 +9,9 @@ Credits: Leref for the node v16 on replit.
 
 ## Setup:
 ###
-- Go to `index.js`. 
-- Under Bot, go to prefix and add your prefix there. Default is `!`.
-```js
-const bot = new aoijs.Bot({
-token: process.env.TOKEN, //Discord Bot Token
-prefix: "!", //Discord Bot Prefix
-intents: "all" //Discord Intents
-})
-``` 
+- Go to `config.json`. 
+- Under `bot_prefix` add your bot prefix.
+- Under `bot_description` add your bot description. (Basically info which will show on the website.)
 - In your `.env` under the name "TOKEN" add your bot token.
 - Run the code.
 ## Editing The Code:
