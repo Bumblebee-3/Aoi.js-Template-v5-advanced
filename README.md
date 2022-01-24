@@ -3,13 +3,14 @@
 
 Recomended host: [replit](https://replit.com).
 
-Language: Bash
+**Language:** Bash
 
-Required Packages: Aoi.js (`npm i aoi.js`) & Express (`npm i express`).
+**Required Packages:** Aoi.js (`npm i aoi.js`) & Express (`npm i express`).
 
-Start: `npx node index.js`
+**Start:** `npx node index.js`
 
-Credits: Leref for the node v16 on replit.
+
+**Credits:** Leref for the node v16 on replit.
 
 ## Setup:
 ###
