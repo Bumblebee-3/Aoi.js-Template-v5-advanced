@@ -2,6 +2,7 @@ const vari = require("./variablehandler.js")
 const cmd = require("./commandhandler.js")
 const call = require("./callbackhandler.js")
 const slash = require("./slashhandler.js")
+const status = require("./statushandler.js")
 
 /*
 Combining Variable Handler and Command Handler into one handler. 
@@ -14,6 +15,8 @@ function handler_main(client) {
   console.log("════════ ≪ LOADED VARIABLE HANDLER ≫ ════════");
   call.handle_callbacks(client);
   console.log("════════ ≪ LOADED CALLBACK HANDLER ≫ ════════");
+  status.handle_status(client);//Handling variables. See variablehandler.js.
+  console.log("════════ ≪ LOADED STATUS HANDLER ≫ ════════");
   client.readyCommand({
     channel: "",
     code: `$log[════════ ≪ Ready on $userTag[$clientID] ≫ ════════]
