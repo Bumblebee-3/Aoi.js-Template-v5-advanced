@@ -1,16 +1,34 @@
-# An Advanced AOI.JS v5 Command Handler With Dashboard!
+# Aoi.js Advanced V5 Template With A Website.
+## Introduction To Aoi.js
+### [Aoi.js](https://www.npmjs.com/package/aoi.js) is a npm package that simplifies coding discord bots. 
+
+Made By [Leref#0001](https://discord.com/users/608358453580136499).
+
+
+#### **Aoi.js Links:** (you might need)
+- [Discord Server](https://discord.gg/9nPxvZT59D)
+- [NPM](https://www.npmjs.com/package/aoi.js)
+- [Website / Docs](https://aoi.js.org/)
+- [Github](https://github.com/AkaruiDevelopment/aoi.js)
+
+# **[USEAGE]**
+
+
+
+
 ## DO NOT use the code before reading this FULLY!!
 
 Recomended host: [replit](https://replit.com).
 
-**Language:** Bash
+**Language:** Javascript [Node.js / Bash]
 
-**Required Packages:** Aoi.js (`npm i aoi.js`) & Express (`npm i express`).
+**Required Packages:** Aoi.js (`npm i aoi.js`), Express (`npm i express`), Fs (`npm i fs`).
 
 **Start:** `npx node index.js`
 
 
-**Credits:** Leref for the node v16 on replit.
+**Credits:** Leref for the aoi.js v5 on replit.
+
 
 ## Setup:
 ###
@@ -29,6 +47,17 @@ Recomended host: [replit](https://replit.com).
 }
 ```
 - In "callbacks" json, add your callbacks. For more details go to [the documentation.](https://aoi.leref.ga/v/aoi.js-v5/callbacks)
+
+### Adding Status:
+- Go to `/status/`.
+- Add your status code in new file/replace the old status codes. For eg:
+```js
+module.exports=({
+  text:"Hello World!",//text in the status
+  type:"PLAYING",// types: PLAYING,LISTENING,COMPETING, e.t.c.
+  time:"12"// time is should show the status for. (not needed unless multiple statuses are being used.)
+})
+```
 
 ### Adding variables:
 - Go to `vars.js`.
@@ -92,6 +121,7 @@ npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_mod
 ## To Do:
 - [X] Add Slash Commands Handler.
 - [X] Add A Basic Website Dashboard.
+- [X] Added Staatus Handler
 ## More Features Comming soon!
 ## Made By: `Bumblebee#1447` on [discord.](https://discord.com/users/818377414367379487)
 # Please don't copy this code without giving credits. It has taken me lots of time and effort to make it and a star would mean a lot to me!
