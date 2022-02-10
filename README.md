@@ -24,7 +24,7 @@ Recomended host: [replit](https://replit.com).
 
 **Required Packages:** Aoi.js (`npm i aoi.js`), Express (`npm i express`), Fs (`npm i fs`).
 
-**Start:** `npx node index.js`
+**Start:** `npx node index.js` or `node index.js`.
 
 
 **Credits:** Leref for the aoi.js v5 on replit.
