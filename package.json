@@ -1,8 +1,18 @@
 {
+
   "devDependencies": {
+
     "node": "^16.6.1"
+
   },
+
   "dependencies": {
-    "aoi.js": "^5.0.7"
+
+    "aoi.js": "^5.0.7",
+
+   "express": "^4.17.3"
+
   }
+
 }
+
