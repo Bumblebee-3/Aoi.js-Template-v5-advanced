@@ -11,7 +11,7 @@ Made By [Leref#0001](https://discord.com/users/608358453580136499).
 - [Website / Docs](https://aoi.js.org/)
 - [Github](https://github.com/AkaruiDevelopment/aoi.js)
 
-# **[USEAGE]**
+# **USEAGE**
 
 
 
