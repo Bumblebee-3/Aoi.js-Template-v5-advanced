@@ -123,6 +123,6 @@ npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_mod
 - [X] Add A Basic Website Dashboard.
 - [X] Added Staatus Handler
 ## More Features Comming soon!
-## Made By: `Bumblebee#1447` on [discord.](https://discord.com/users/818377414367379487)
+## Made By: `Blurr#1447` on [discord.](https://discord.com/users/818377414367379487)
 # It has taken me lots of time and effort to make this and a star would mean a lot to me! <3
 
