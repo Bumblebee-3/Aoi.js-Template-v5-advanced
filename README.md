@@ -120,8 +120,8 @@ npm init -y && npm i --save-dev node@16 && npm config set prefix=$(pwd)/node_mod
 ```
 ## To Do:
 - [X] Add Slash Commands Handler.
-- [X] Add A Basic Website Dashboard.
-- [X] Added Staatus Handler
+- [X] Add A Basic Website.
+- [X] Added Status Handler
 ## More Features Comming soon!
 ## Made By: Bumblebee aka Blurr
 # It has taken me lots of time and effort to make this and a star would mean a lot to me! <3
