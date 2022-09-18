@@ -50,4 +50,4 @@ function handle_custom_funcs(client,folder) {
 
 }
 
-handle_custom_funcs(bot,"customfuncs");//bot is aoi.client and folder here is name of folder for eg:
+handle_custom_funcs(bot,"customFunctions");//bot is aoi.client and folder here is name of folder for eg:
