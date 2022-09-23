@@ -1,4 +1,4 @@
-moudle.exports = {
+module.exports = {
   name : '$say',
   params : ['authorid','message'],
   type : 'aoi.js',
