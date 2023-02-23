@@ -1,4 +1,5 @@
-# Aoi.js Advanced V5 Template With A Website.
+# Aoi.js Advanced V5 Template With A Website. 
+Note: This is outdated, check out v6 version here: [https://github.com/Bumblebee-3/Aoi.js-v6-advanced-template/tree/main](https://github.com/Bumblebee-3/Aoi.js-v6-advanced-template/tree/main)
 ## Introduction To Aoi.js
 ### [Aoi.js](https://www.npmjs.com/package/aoi.js) is a npm package that simplifies coding discord bots. 
 
